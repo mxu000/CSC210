@@ -1,3 +1,2 @@
-# CSC210
-Software Design Laboratory using Altera
-taught by Professor Mohammed S Saadi
+# CSC211
+Fundamentals of Computer Systems using Altera taught by Professor Izidor Gertner
